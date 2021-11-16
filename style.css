@@ -1,0 +1,16 @@
+body{
+    background-image: linear-gradient(to right, #434343d0 0%, rgba(0, 0, 0, 0.788) 100%), url(img/pexels-pixabay-270404.jpg);
+    background-size:cover;
+}
+
+
+
+.card h5{
+    color: black;
+}
+
+.card p{
+    color: black;
+}
+
+
